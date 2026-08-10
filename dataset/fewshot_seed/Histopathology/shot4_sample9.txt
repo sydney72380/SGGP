@@ -1,0 +1,2 @@
+a-0: 1086.png 1049.png 1066.png 1044.png
+n-0: 1149.png 1131.png 399.png 390.png

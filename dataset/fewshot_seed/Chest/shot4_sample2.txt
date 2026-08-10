@@ -1,0 +1,2 @@
+a-0: Lung_Opacity_03f8bb03-eb04-4365-ac4d-d63d2b5d49cc.png No-Not-Normal_f281dbe7-7dfc-4077-ae80-b02ed96dd95a.png No-Not-Normal_fec211b1-ab13-4012-bc20-0f0f049d554a.png Lung_Opacity_3b411a6e-270d-48d6-a3db-fbb4635151dd.png
+n-0: Normal-ff42dbdc-285e-457d-aa3d-725638fa083b.png Normal-ff172cdc-bcfe-4fed-904b-6e573b1bc74c.png Normal-0b2e8b54-aab8-45a1-ac87-f98c91590cdf.png Normal-ff8dffe0-57bb-4b95-b425-38f8ef290339.png
